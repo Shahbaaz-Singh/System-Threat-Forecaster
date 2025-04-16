@@ -58,7 +58,3 @@ This repository is a **clean, streamlined, and general-purpose version** of my c
 - Real-world dataset handling under constraints
 
 Feel free to experiment or integrate this pipeline into your own classification problems!
-
----
-
-Let me know if you want to add a **"Project Structure"** or **"Dependencies/Installation"** section too.
