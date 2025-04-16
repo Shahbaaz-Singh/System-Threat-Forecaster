@@ -1,5 +1,3 @@
----
-
 # System-Threat-Forecaster
 
 **System-Threat-Forecaster** is a Machine Learning project designed to predict the probability of a system being infected by various families of malware. The model uses a wide range of telemetry data — including hardware and software features — to make binary classification predictions on system infection risk. This data is originally gathered through antivirus threat reports.
